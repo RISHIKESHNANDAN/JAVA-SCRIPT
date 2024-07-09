@@ -1,4 +1,7 @@
-fullName = "Rishikesh Nandan";
-age = 18;
-console.log(fullName);
-console.log(age);
+const product = {
+    fullName: "Aiser",
+    rating: 4.2,
+    offer: 6,
+    price: 180,
+};
+console.log(product);
