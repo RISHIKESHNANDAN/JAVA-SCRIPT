@@ -1,7 +1,10 @@
-const product = {
-    fullName: "Aiser",
-    rating: 4.2,
-    offer: 6,
-    price: 180,
-};
-console.log(product);
+//Artimetic Operators
+let a = 46;
+let b = 23;
+
+console.log(" a = " , a);
+console.log(" b = " , b);
+console.log(" a + b = " , a + b);
+console.log(" a - b = " , a - b);
+console.log(" a * b = " , a * b);
+console.log(" a / b = " , a / b);
